@@ -1,7 +1,3 @@
-Here's a cool and clean example of a `README.md` that describes your project. This version is informative, but also casual and engaging. Feel free to copy, modify, and customize it further.
-
----
-
 # ✍️ **Interactive Hand-Drawn Canvas with MediaPipe**
 
 Welcome to the **Interactive Hand-Drawn Canvas** project! 🖼️🎨 This application uses MediaPipe for hand tracking and OpenCV for real-time drawing, offering you a unique and fun way to paint with your hands! Whether you're creating artwork or just doodling for fun, this tool is a fantastic way to engage with technology creatively.
