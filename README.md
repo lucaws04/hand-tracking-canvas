@@ -40,7 +40,11 @@ Before running the project, you’ll need Python 3.10.16 and pip installed.
 3. **Run the application**:
     Launch the canvas application:
     ```bash
-    python canvas.py
+    python camera_drawing.py
+    ```
+    OR
+    ```bash
+    python camera_gestures.py
     ```
 
     Your webcam will open, and you can start drawing!
