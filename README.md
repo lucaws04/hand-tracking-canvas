@@ -27,7 +27,7 @@ Before running the project, you’ll need Python 3.10.16 and pip installed.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/LucasDuckworth230533/ai-depth.git
+    git clone https://github.com/lucaws04/hand-tracking-canvas.git
     cd hand-drawn-canvas
     ```
 
@@ -85,11 +85,6 @@ _Enjoy drawing!_ -->
 
 ---
 
-## 📃 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙌 **Acknowledgements**
 
